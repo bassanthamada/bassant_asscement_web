@@ -1,0 +1,35 @@
+.login
+{
+    border: 3px solid black;
+    width: 500px;
+    height:400px;
+}
+.log
+{
+    margin-top: 10px;
+}
+#login_h1
+{
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    justify-content: center;
+}
+.log2
+{
+    font-size: large;
+    font-family:'Courier New', Courier, monospace;
+    color: black;
+    background-color: green;
+    width: 80px;
+    height: 40px;
+}
+.log3
+{
+    font-size: large;
+    font-family:'Courier New', Courier, monospace;
+    color: black;
+    background-color: green;
+    width: 100px;
+    height: 45px;
+}

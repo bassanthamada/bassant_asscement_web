@@ -1,0 +1,111 @@
+#head
+{
+    overflow: hidden;
+   
+}
+
+.big_hideer
+{
+    border-width: 4px;
+    border-radius: 10px;
+    border: 2px solid;
+    color: black;
+    overflow: hidden;
+}
+.re1
+{
+    text-align: left center;
+    margin-right: 70px;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-display: flex;
+    color: black;
+    background-color: green;
+    width: 100px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+.re2
+{
+    margin-right: 70px;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-display: flex;
+    color: black;
+    background-color: green;
+    width: 100px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+.re3
+{
+    margin-right: 70px;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-display: flex;
+    color: black;
+    background-color: green;
+    width: 100px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+.re4
+{
+    margin-right: 70px;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-display: flex;
+    color: black;
+    background-color: green;
+    width: 100px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+#Bassataty_h1
+{
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 30px;
+}
+.card_shopping_h1
+{
+    text-align: center;
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+section :target
+{
+    display: block;
+}
+section :not(:target)
+{
+    display: block;
+}
+#contenar
+{
+    margin-top: 100px;
+    position: relative;
+    background-color:bisque;
+    border-radius: 10px;
+}
+img 
+{
+    height: 500px;
+    width: 400px;
+}
+div :target
+{
+    display: block;
+}
+div not:(:target)
+{
+    display: none;
+}
+.summ
+{
+    border: 2px black dotted;
+    width: 150px;
+    padding:20px;
+    background-color: green;
+    color: black;
+}

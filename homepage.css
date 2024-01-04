@@ -1,0 +1,123 @@
+#Bassataty_h1
+{
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 30px;
+}
+.ref1
+{
+    text-align: left center;
+    margin-right: 70px;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-display: flex;
+    color: black;
+    background-color: green;
+    width: 100px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+.ref2
+{
+    margin-right: 70px;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-display: flex;
+    color: black;
+    background-color: green;
+    width: 100px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+.ref3
+{
+    margin-right: 70px;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-display: flex;
+    color: black;
+    background-color: green;
+    width: 100px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+.ref4
+{
+    margin-right: 70px;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-display: flex;
+    color: black;
+    background-color: green;
+    width: 100px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+.big_hideer
+{
+    border-width: 4px;
+    border-radius: 10px;
+    border: 2px solid;
+    color: black;
+    overflow: hidden;
+}
+.body_E-commers
+{
+    background-color: orange;
+    border-width: 2px;
+    border-width: 4px;
+    border-radius: 10px;
+    border: 2px solid;
+}
+.section :target
+{
+    display: block;
+}
+.section :not(:target)
+{
+    display: none;
+}
+.next
+{
+    color: black;
+    background-color: green;
+    border-radius: 5px;
+    
+}
+.footer
+{
+    background-color:green;
+    width: 100%;
+    height: 200px;
+}
+.label1
+{
+   align-items: center;
+   justify-content: center;
+   margin-right: 20px;
+   color: black;
+   font-size: xx-large;
+}
+.label2
+{
+   align-items: center;
+   justify-content: center;
+   margin-right: 20px;
+   color: black;
+   font-size: xx-large;
+}
+.label3
+{
+   align-items: center;
+   justify-content: center;
+   margin-right: 20px;
+   color: black;
+   font-size: xx-large;
+}
+#card
+{
+    width: 100px;
+    height: 50px;
+   
+
+}
